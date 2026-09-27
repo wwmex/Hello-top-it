@@ -3,7 +3,7 @@
 int main()
 {
 
-std::cout << "Hi, top-it!";
+std::cout << "Gretings, top-it!";
 std::cout << "\n";
 std::cout << "My name is Gleb\n";
 }
